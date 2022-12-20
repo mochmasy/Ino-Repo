@@ -1,4 +1,11 @@
 File ini adalah untuk mencatat rancangan kedepan saya
 
 - Saya ingin belajar bahasa pemrograman
+    > Bahasa Yang ingin saya pelajari yaitu 
+        * Javascript
+        * Pyhton
+        * Java
 - saya ingin belajar database
+    > Database yang ingin saya pelajari yaitu
+        * MySQL
+        * MongoDB
