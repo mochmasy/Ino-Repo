@@ -7,3 +7,5 @@ File ini adalah untuk mencatat rancangan kedepan saya
 - saya ingin belajar database
     > Database yang ingin saya pelajari yaitu
         * MySQL 
+        * MongoDB
+        * Sego Goreng
