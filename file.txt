@@ -8,3 +8,6 @@ File ini adalah untuk mencatat rancangan kedepan saya
     > Database yang ingin saya pelajari yaitu
         * MySQL 
         * MongoDB
+        * Sego Goreng
+        * Soto
+        * Rawon
